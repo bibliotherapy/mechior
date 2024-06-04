@@ -1,8 +1,6 @@
 # melchior
 
-"""
-
-### Disclaimer
+## Disclaimer
 
 ### Important Notice
 This repository contains a deep learning model that derives readings from brain infarct MRI images. Please be aware of the following important points:
@@ -20,5 +18,3 @@ This model is a research tool and may have limitations and inaccuracies. It has 
 Always consult with qualified medical professionals before making any medical decisions or interpretations based on MRI images.
 
 By using this model, you acknowledge and agree to the above terms.
-
-"""
