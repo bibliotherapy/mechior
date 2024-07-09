@@ -2,7 +2,7 @@
 
 ## Disclaimer
 This page is temporarily unavailable due to code modifications.
-Code will be modified by July 8,24
+Code will be modified by July 15,24
 
 ### Important Notice
 This repository contains a deep learning model that derives readings from brain infarct MRI images. Please be aware of the following important points:
